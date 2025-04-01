@@ -1,5 +1,6 @@
-[gd_scene load_steps=2 format=3 uid="uid://cdk84ypotja5g"]
+[gd_scene load_steps=3 format=3 uid="uid://cdk84ypotja5g"]
 
+[ext_resource type="Script" uid="uid://chxbjjheanll0" path="res://TestScript.gd" id="2_2au82"]
 [ext_resource type="Texture2D" uid="uid://u0b4eg86eguu" path="res://image-removebg-preview.png" id="2_njov2"]
 
 [node name="Node2D" type="Node2D"]
@@ -7,3 +8,4 @@
 [node name="Image-removebg-preview" type="Sprite2D" parent="."]
 position = Vector2(122, 337)
 texture = ExtResource("2_njov2")
+script = ExtResource("2_2au82")
