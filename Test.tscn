@@ -1,6 +1,13 @@
+<<<<<<< Updated upstream
 [gd_scene load_steps=2 format=3 uid="uid://do28l12cyer14"]
 
 [ext_resource type="Texture2D" path="res://icon.svg" id="1_myinc"]
+=======
+[gd_scene load_steps=3 format=3 uid="uid://cdk84ypotja5g"]
+
+[ext_resource type="Texture2D" uid="uid://dp3mons22i1gl" path="res://icon.svg" id="1_myinc"]
+[ext_resource type="Texture2D" uid="uid://u0b4eg86eguu" path="res://image-removebg-preview.png" id="2_njov2"]
+>>>>>>> Stashed changes
 
 [node name="Node2D" type="Node2D"]
 
@@ -16,3 +23,10 @@ texture = ExtResource("1_myinc")
 [node name="Sprite2D2" type="Sprite2D" parent="Sprite2D2"]
 position = Vector2(815, 112)
 texture = ExtResource("1_myinc")
+
+[node name="Sprite2D3" type="Sprite2D" parent="."]
+
+[node name="Image-removebg-preview" type="Sprite2D" parent="."]
+position = Vector2(606, 357)
+scale = Vector2(3.74415, 0.349498)
+texture = ExtResource("2_njov2")
