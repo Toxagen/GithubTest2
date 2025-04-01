@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=3 uid="uid://do28l12cyer14"]
 
 [ext_resource type="Texture2D" uid="uid://tiyrnt3jky4v" path="res://Anonymous-fursona-verification.png" id="1_myinc"]
-[ext_resource type="Script" path="res://TestScript.gd" id="2_2au82"]
+[ext_resource type="Script" uid="uid://chxbjjheanll0" path="res://TestScript.gd" id="2_2au82"]
 
 [node name="Node2D" type="Node2D"]
 
