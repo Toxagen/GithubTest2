@@ -1,12 +1,18 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 [gd_scene load_steps=2 format=3 uid="uid://do28l12cyer14"]
 
 [ext_resource type="Texture2D" path="res://icon.svg" id="1_myinc"]
 =======
+=======
+>>>>>>> Stashed changes
 [gd_scene load_steps=3 format=3 uid="uid://cdk84ypotja5g"]
 
 [ext_resource type="Texture2D" uid="uid://dp3mons22i1gl" path="res://icon.svg" id="1_myinc"]
 [ext_resource type="Texture2D" uid="uid://u0b4eg86eguu" path="res://image-removebg-preview.png" id="2_njov2"]
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 
 [node name="Node2D" type="Node2D"]
