@@ -8,7 +8,7 @@
 script = ExtResource("1_2au82")
 
 [node name="Proxy-image-removebg-preview" type="Sprite2D" parent="."]
-position = Vector2(571, 314)
+position = Vector2(555, 312)
 texture = ExtResource("1_myinc")
 script = ExtResource("3_8tn2x")
 
